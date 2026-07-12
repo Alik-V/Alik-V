@@ -15,6 +15,6 @@ R / R Shiny · Agentic AI Toolkits · Statistical Modelling · Machine Learning 
 - **AI & Business Toolkits** — Safe AI adoption for business teams, including non-technical users.
 
 ## Contact
-- Portfolio: [alik-v.github.io/portfolio](https://alik-v.github.io/portfolio/)
+- Portfolio: [alik-v.github.io/portfolio](https://portfolio.familystack.org/)
 - Email: [alik.vodyanov@gmail.com](mailto:alik.vodyanov@gmail.com)
 - LinkedIn: [in/alik-vodyanov](https://www.linkedin.com/in/alik-vodyanov)
