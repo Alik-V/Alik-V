@@ -1,6 +1,3 @@
-# Alik Vodyanov
-**Senior Operational Researcher**
-
 Turning complex healthcare systems into models people can actually use.
 
 Senior Operational Researcher with 6+ years applying mathematical modelling, statistics and machine learning across healthcare and health economics. I build microsimulation and systems-dynamics models, neural-network metamodels, and interactive R Shiny dashboards — with a focus on reproducible pipelines and the controlled adoption of AI.
