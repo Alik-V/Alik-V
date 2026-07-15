@@ -10,8 +10,3 @@ R / R Shiny · Agentic AI Toolkits · Statistical Modelling · Machine Learning 
 - **Data Science** — Statistical modelling & ML in R and Python.
 - **R Shiny Apps** — Interactive dashboards for healthcare analytics.
 - **AI & Business Toolkits** — Safe AI adoption for business teams, including non-technical users.
-
-## Contact
-- Portfolio: [portfolio.familystack.org/](https://portfolio.familystack.org/)
-- Email: [alik.vodyanov@gmail.com](mailto:alik.vodyanov@gmail.com)
-- LinkedIn: [in/alik-vodyanov](https://www.linkedin.com/in/alik-vodyanov)
